@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8070bcf-ff03-47e2-b286-c800de994849" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="letsKode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/courses/register_courses_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Verfication of presence of captcha element</find>
+      <find>Software</find>
+      <find>VERIFICATION SUCCESSFUL</find>
+      <find>Test Failed</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utilities/custom_logger.py" />
+        <option value="$PROJECT_DIR$/utilities/test_status.py" />
+        <option value="$PROJECT_DIR$/pages/register_courses_page.py" />
+        <option value="$PROJECT_DIR$/tests/courses/register_courses_tests.py" />
+        <option value="$PROJECT_DIR$/tests/register_courses_tests.py" />
+        <option value="$PROJECT_DIR$/automation.log" />
+        <option value="$PROJECT_DIR$/utilities/read_data.py" />
+        <option value="$PROJECT_DIR$/test_data.csv" />
+        <option value="$PROJECT_DIR$/tests/test_suite.py" />
+        <option value="$PROJECT_DIR$/utilities/decode_captcha_1.py" />
+        <option value="$PROJECT_DIR$/utilities/decode_captcha.py" />
+        <option value="$PROJECT_DIR$/tests/home/conftest.py" />
+        <option value="$PROJECT_DIR$/utilities/util.py" />
+        <option value="$PROJECT_DIR$/test_data/sign_up_page_test_data.csv" />
+        <option value="$PROJECT_DIR$/base/webdriver_factory.py" />
+        <option value="$PROJECT_DIR$/test_data/login_page_test_data.csv" />
+        <option value="$PROJECT_DIR$/pages/sign_up_page.py" />
+        <option value="$PROJECT_DIR$/tests/home/sign_up_tests.py" />
+        <option value="$PROJECT_DIR$/test_data/forgot_password_test_data.csv" />
+        <option value="$PROJECT_DIR$/pages/login_page.py" />
+        <option value="$PROJECT_DIR$/tests/home/test_suite.py" />
+        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
+        <option value="$PROJECT_DIR$/test_data/software_testing_course_data.csv" />
+        <option value="$PROJECT_DIR$/pages/courses/register_courses_page.py" />
+        <option value="$PROJECT_DIR$/tests/home/login_tests.py" />
+        <option value="$PROJECT_DIR$/tests/home/register_courses_tests.py" />
+        <option value="$PROJECT_DIR$/base/basepage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QA_Automation_Testing" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project_Workspace\letsKode\test_data" />
+      <recent name="F:\Project_Workspace\letsKode\tests\home" />
+      <recent name="F:\Project_Workspace\letsKode\tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="login_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="letsKode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/home/login_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mohan M\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8070bcf-ff03-47e2-b286-c800de994849" name="Default Changelist" comment="" />
+      <created>1584894223609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584894223609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.17708333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5023148" side_tool="true" weight="0.1688988" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28641573" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985119" weight="0.09656301" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.1603928" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/_pytest/mark/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/custom_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Verified.1585232835629.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Verified.1585232483842.png" />
+    <entry file="file://$PROJECT_DIR$/pages/register_courses_page.py" />
+    <entry file="file://$PROJECT_DIR$/tests/courses/register_courses_tests.py" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585322591226.png" />
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585324203215.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585324177801.png" />
+    <entry file="file://$PROJECT_DIR$/tests/register_courses_tests.py" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585326534415.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585590960071.png" />
+    <entry file="file://$PROJECT_DIR$/utilities/test_data.csv" />
+    <entry file="file://$PROJECT_DIR$/tests/test_suite.py" />
+    <entry file="file://$PROJECT_DIR$/tests/home/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data.csv" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Test Failed.1585768354667.png" />
+    <entry file="file://$USER_HOME$/Selenium_WD/Lib/site-packages/selenium/webdriver/common/by.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1760490934/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="249" column="4" selection-start-line="249" selection-start-column="4" selection-end-line="249" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Selenium_WD/Lib/site-packages/selenium/webdriver/remote/switch_to.py" />
+    <entry file="file://$PROJECT_DIR$/utilities/decode_captcha_1.py" />
+    <entry file="file://$PROJECT_DIR$/utilities/decode_captcha.py" />
+    <entry file="file://$USER_HOME$/Selenium_WD/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/tests/home/sign_up_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/automation.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sign_up_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/webdriver_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="e#203#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+          <folding>
+            <element signature="e#170#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/register_course_test_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/login_page_test_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/test_status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="29" column="94" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="94" />
+          <folding>
+            <element signature="e#180#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/register_courses_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/software_testing_course_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home/login_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/forgot_password_test_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/sign_up_page_test_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <element signature="e#288#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="132">
+          <caret line="782" column="77" selection-start-line="782" selection-start-column="77" selection-end-line="782" selection-end-column="89" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="445" column="48" selection-start-line="445" selection-start-column="48" selection-end-line="445" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/courses/register_courses_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

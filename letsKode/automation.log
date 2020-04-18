@@ -1,0 +1,1098 @@
+04/12/2020 11:10:12 PM - LoginPage - INFO: Element Found
+04/12/2020 11:10:12 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:10:15 PM - LoginPage - INFO: Element not found
+04/12/2020 11:10:15 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:10:18 PM - LoginPage - INFO: Element Found
+04/12/2020 11:10:18 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:10:18 PM - LoginPage - INFO: Element Found
+04/12/2020 11:10:18 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:10:19 PM - LoginPage - INFO: Element Found
+04/12/2020 11:10:19 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:10:19 PM - LoginPage - INFO: Element Found
+04/12/2020 11:10:25 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:10:28 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:28 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:10:28 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:33 PM - RegisterCourseClass - INFO: Clicked on element with locator: All and locator_type: link
+04/12/2020 11:10:33 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:33 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:10:33 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:35 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Development (8) and locator_type: link
+04/12/2020 11:10:35 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:35 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:10:35 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:36 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software IT (4) and locator_type: link
+04/12/2020 11:10:36 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:37 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:10:37 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Clicked on element with locator: React Hooks (1) and locator_type: link
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/12/2020 11:10:38 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:40 PM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/12/2020 11:10:40 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:40 PM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/12/2020 11:10:41 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:49 PM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/12/2020 11:10:49 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:52 PM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:10:53 PM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/12/2020 11:10:53 PM - Util - INFO: Wait :: '20' seconds for 
+04/12/2020 11:11:13 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:11:14 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:11:14 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:11:14 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:11:14 PM - TestStatus - ERROR: Enroll Course ### TEST FAILED
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:14 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:11:14 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:17 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:11:17 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:11:20 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:11:20 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:16:18 PM - LoginPage - INFO: Element Found
+04/12/2020 11:16:19 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:16:22 PM - LoginPage - INFO: Element not found
+04/12/2020 11:16:22 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:16:25 PM - LoginPage - INFO: Element Found
+04/12/2020 11:16:25 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:16:25 PM - LoginPage - INFO: Element Found
+04/12/2020 11:16:25 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:16:25 PM - LoginPage - INFO: Element Found
+04/12/2020 11:16:25 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:16:25 PM - LoginPage - INFO: Element Found
+04/12/2020 11:16:31 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:16:34 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:16:34 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:16:34 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:16:38 PM - RegisterCourseClass - INFO: Clicked on element with locator: All and locator_type: link
+04/12/2020 11:20:36 PM - LoginPage - INFO: Element Found
+04/12/2020 11:20:36 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:20:39 PM - LoginPage - INFO: Element not found
+04/12/2020 11:20:39 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:20:45 PM - LoginPage - INFO: Element not found
+04/12/2020 11:20:45 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email and locator_type: id
+04/12/2020 11:20:47 PM - LoginPage - INFO: Element Found
+04/12/2020 11:20:47 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:20:47 PM - LoginPage - INFO: Element Found
+04/12/2020 11:20:47 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:20:47 PM - LoginPage - INFO: Element Found
+04/12/2020 11:20:51 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:20:57 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:20:57 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:/html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:21:00 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:00 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:All and locator_type: link
+04/12/2020 11:21:04 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:04 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:/html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:21:07 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:07 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:Software Development (8) and locator_type: link
+04/12/2020 11:21:10 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:10 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:/html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:21:13 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:13 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:Software IT (4) and locator_type: link
+04/12/2020 11:21:16 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:16 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:/html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:21:19 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:19 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:React Hooks (1) and locator_type: link
+04/12/2020 11:21:22 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:22 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:21:25 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:25 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:21:28 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:28 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:21:31 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:31 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:21:32 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:32 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:21:33 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:36 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:21:36 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:39 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:21:39 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:21:42 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/12/2020 11:21:42 PM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/12/2020 11:22:20 PM - LoginPage - INFO: Element Found
+04/12/2020 11:22:20 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:22:23 PM - LoginPage - INFO: Element not found
+04/12/2020 11:22:23 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:22:26 PM - LoginPage - INFO: Element Found
+04/12/2020 11:22:26 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:22:26 PM - LoginPage - INFO: Element Found
+04/12/2020 11:22:26 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:22:26 PM - LoginPage - INFO: Element Found
+04/12/2020 11:22:26 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:22:26 PM - LoginPage - INFO: Element Found
+04/12/2020 11:22:32 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:27:38 PM - LoginPage - INFO: Element Found
+04/12/2020 11:27:38 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:27:41 PM - LoginPage - INFO: Element not found
+04/12/2020 11:27:41 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:27:44 PM - LoginPage - INFO: Element Found
+04/12/2020 11:27:44 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:27:44 PM - LoginPage - INFO: Element Found
+04/12/2020 11:27:44 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:27:44 PM - LoginPage - INFO: Element Found
+04/12/2020 11:27:44 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:27:44 PM - LoginPage - INFO: Element Found
+04/12/2020 11:27:50 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:28:26 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:28:26 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:37:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:37:56 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:37:59 PM - LoginPage - INFO: Element not found
+04/12/2020 11:37:59 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:38:02 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:02 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:38:02 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:02 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:38:02 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:02 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:38:02 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:09 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:38:50 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:50 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:38:53 PM - LoginPage - INFO: Element not found
+04/12/2020 11:38:53 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:38:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:56 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:38:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:56 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:38:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:38:56 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:38:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:39:31 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:39:34 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:39:34 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:39:39 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:39:43 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/12/2020 11:39:43 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:39:43 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:39:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/12/2020 11:39:45 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:39:45 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:39:45 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:39:45 PM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/12/2020 11:39:45 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:39:45 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/12/2020 11:39:45 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:39:45 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:39:45 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:39:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/12/2020 11:42:04 PM - LoginPage - INFO: Element Found
+04/12/2020 11:42:04 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:42:07 PM - LoginPage - INFO: Element not found
+04/12/2020 11:42:07 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:42:10 PM - LoginPage - INFO: Element Found
+04/12/2020 11:42:10 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:42:10 PM - LoginPage - INFO: Element Found
+04/12/2020 11:42:10 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:42:10 PM - LoginPage - INFO: Element Found
+04/12/2020 11:42:10 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:42:10 PM - LoginPage - INFO: Element Found
+04/12/2020 11:42:17 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:42:20 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:21 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:42:26 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:29 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/12/2020 11:42:29 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:29 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:29 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/12/2020 11:42:31 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:31 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:31 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:31 PM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/12/2020 11:42:31 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:42:31 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/12/2020 11:42:31 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:42:31 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:42:31 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:42:31 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/12/2020 11:42:33 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:33 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:33 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:33 PM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/12/2020 11:42:33 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:42:33 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/12/2020 11:42:33 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:42:33 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:42:33 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:42:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/12/2020 11:42:35 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:35 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:42:35 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:35 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:42:35 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:42:35 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 3.1586715155183.png
+04/12/2020 11:42:35 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:42:37 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:37 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:42:37 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:37 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:42:37 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:42:37 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 4.1586715157509.png
+04/12/2020 11:42:37 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:42:39 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:39 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:42:39 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:39 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:42:39 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:42:39 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 5.1586715159779.png
+04/12/2020 11:42:39 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:42:41 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:42:41 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:42:41 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:42:42 PM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/12/2020 11:42:42 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:42:42 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/12/2020 11:42:42 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:42:42 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:42:42 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:42:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/12/2020 11:42:42 PM - TestStatus - ERROR: Testing Course Verified ### TEST FAILED
+04/12/2020 11:44:56 PM - LoginPage - INFO: Element Found
+04/12/2020 11:44:57 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:45:00 PM - LoginPage - INFO: Element not found
+04/12/2020 11:45:00 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:45:03 PM - LoginPage - INFO: Element Found
+04/12/2020 11:45:03 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:45:03 PM - LoginPage - INFO: Element Found
+04/12/2020 11:45:03 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:45:03 PM - LoginPage - INFO: Element Found
+04/12/2020 11:45:03 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:45:03 PM - LoginPage - INFO: Element Found
+04/12/2020 11:45:10 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:45:13 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:13 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:45:18 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:21 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/12/2020 11:45:21 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:21 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/12/2020 11:45:23 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:23 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:23 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:23 PM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/12/2020 11:45:23 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:45:23 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/12/2020 11:45:23 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:45:23 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:45:23 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:45:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/12/2020 11:45:25 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:25 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:25 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:25 PM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/12/2020 11:45:25 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:45:25 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/12/2020 11:45:25 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:45:25 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:45:25 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:45:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/12/2020 11:45:27 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:27 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:45:27 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:27 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:45:27 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:45:27 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 3.1586715327247.png
+04/12/2020 11:45:27 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:45:29 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:29 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:45:29 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:29 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:45:29 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:45:29 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 4.1586715329523.png
+04/12/2020 11:45:29 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:45:31 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:31 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:45:31 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:31 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:45:31 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:45:32 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 5.1586715331805.png
+04/12/2020 11:45:32 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:45:34 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:45:34 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:45:34 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:45:34 PM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/12/2020 11:45:34 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:45:34 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/12/2020 11:45:34 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:45:34 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:45:34 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:45:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/12/2020 11:45:34 PM - TestStatus - ERROR: Testing Course Verified ### TEST FAILED
+04/12/2020 11:48:02 PM - LoginPage - INFO: Element Found
+04/12/2020 11:48:02 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:48:05 PM - LoginPage - INFO: Element not found
+04/12/2020 11:48:05 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:48:12 PM - LoginPage - INFO: Element not found
+04/12/2020 11:48:12 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email and locator_type: id
+04/12/2020 11:48:12 PM - LoginPage - INFO: Element Found
+04/12/2020 11:48:12 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:48:12 PM - LoginPage - INFO: Element Found
+04/12/2020 11:48:12 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:48:12 PM - LoginPage - INFO: Element Found
+04/12/2020 11:48:16 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:48:22 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:22 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:/html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:48:30 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:30 PM - RegisterCourseClass - INFO: Cannot click on the element with locator:Software Testing (6) and locator_type: link
+04/12/2020 11:48:31 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:31 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:31 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:48:31 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:48:33 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:48:34 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:34 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:48:34 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:48:34 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:48:42 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:48:42 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:48:44 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:48:52 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:48:52 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:48:52 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:48:52 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:49:00 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:49:00 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:49:02 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:49:10 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:49:10 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:49:10 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:49:10 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:49:18 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:49:18 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:49:20 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:49:28 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:49:28 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:49:28 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:49:28 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:49:37 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:49:37 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:49:39 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:49:47 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:49:47 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:49:47 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:49:47 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:49:55 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:49:55 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:49:57 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:50:05 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:50:05 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:50:05 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:50:05 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:50:13 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/12/2020 11:50:13 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:50:13 PM - TestStatus - ERROR: Testing Course Verified ### TEST FAILED
+04/12/2020 11:52:17 PM - LoginPage - INFO: Element Found
+04/12/2020 11:52:17 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:52:20 PM - LoginPage - INFO: Element not found
+04/12/2020 11:52:20 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:52:24 PM - LoginPage - INFO: Element Found
+04/12/2020 11:52:24 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:52:24 PM - LoginPage - INFO: Element Found
+04/12/2020 11:52:24 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:52:24 PM - LoginPage - INFO: Element Found
+04/12/2020 11:52:24 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:52:24 PM - LoginPage - INFO: Element Found
+04/12/2020 11:52:31 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:52:34 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:35 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:52:40 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:41 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/12/2020 11:52:41 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:41 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/12/2020 11:52:43 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:52:43 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:43 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:52:43 PM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/12/2020 11:52:43 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:52:43 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/12/2020 11:52:43 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:52:43 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:52:43 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:52:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/12/2020 11:52:45 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:52:45 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:52:45 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:52:45 PM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/12/2020 11:52:45 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:52:45 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/12/2020 11:52:45 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:52:45 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:52:45 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:52:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/12/2020 11:52:47 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:52:50 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:52:50 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:52:50 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:52:50 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:52:51 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 3.1586715770908.png
+04/12/2020 11:52:51 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:52:53 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:52:56 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:52:56 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:52:56 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:52:56 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:52:56 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 4.1586715776154.png
+04/12/2020 11:52:56 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:52:58 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:53:01 PM - RegisterCourseClass - INFO: Element not found
+04/12/2020 11:53:01 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:53:01 PM - RegisterCourseClass - ERROR: Failed to get text on element 
+04/12/2020 11:53:01 PM - RegisterCourseClass - INFO: Failed to get the text
+04/12/2020 11:53:01 PM - TestStatus - INFO: Screenshot save to directory: F:\Project_Workspace\letsKode\base\../screenshots/Verified course - 5.1586715781448.png
+04/12/2020 11:53:01 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + 
+04/12/2020 11:53:03 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:53:03 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:53:03 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:53:03 PM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/12/2020 11:53:03 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:53:03 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/12/2020 11:53:03 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:53:03 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:53:03 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:53:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/12/2020 11:53:03 PM - TestStatus - ERROR: Testing Course Verified ### TEST FAILED
+04/12/2020 11:55:30 PM - LoginPage - INFO: Element Found
+04/12/2020 11:55:30 PM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/12/2020 11:55:33 PM - LoginPage - INFO: Element not found
+04/12/2020 11:55:33 PM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/12/2020 11:55:36 PM - LoginPage - INFO: Element Found
+04/12/2020 11:55:37 PM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/12/2020 11:55:37 PM - LoginPage - INFO: Element Found
+04/12/2020 11:55:37 PM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/12/2020 11:55:37 PM - LoginPage - INFO: Element Found
+04/12/2020 11:55:37 PM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/12/2020 11:55:37 PM - LoginPage - INFO: Element Found
+04/12/2020 11:55:43 PM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/12/2020 11:55:46 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:46 PM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/12/2020 11:55:51 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:55 PM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/12/2020 11:55:55 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:55 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:55 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/12/2020 11:55:57 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:55:57 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:57 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:55:57 PM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/12/2020 11:55:57 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:55:57 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/12/2020 11:55:57 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:55:57 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/12/2020 11:55:57 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:55:57 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/12/2020 11:55:59 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:55:59 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:55:59 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:55:59 PM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/12/2020 11:55:59 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:55:59 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/12/2020 11:55:59 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:55:59 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/12/2020 11:55:59 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:55:59 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/12/2020 11:56:01 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:56:01 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:56:01 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:56:01 PM - RegisterCourseClass - DEBUG: After finding element, size is: 31
+04/12/2020 11:56:01 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:56:01 PM - RegisterCourseClass - INFO: The text is :: 'Complete Test Automation Bundle'
+04/12/2020 11:56:01 PM - Util - INFO: Actual Text From Application Web UI --> :: Complete Test Automation Bundle
+04/12/2020 11:56:01 PM - Util - INFO: Expected Text From Application Web UI --> :: Complete Test Automation Bundle
+04/12/2020 11:56:01 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:56:01 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 3 
+04/12/2020 11:56:03 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:56:03 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:56:03 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:56:03 PM - RegisterCourseClass - DEBUG: After finding element, size is: 42
+04/12/2020 11:56:03 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:56:03 PM - RegisterCourseClass - INFO: The text is :: 'TestNG Complete Bootcamp - Novice To Ninja'
+04/12/2020 11:56:03 PM - Util - INFO: Actual Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/12/2020 11:56:03 PM - Util - INFO: Expected Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/12/2020 11:56:03 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:56:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 4 
+04/12/2020 11:56:05 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:56:05 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:56:05 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:56:05 PM - RegisterCourseClass - DEBUG: After finding element, size is: 37
+04/12/2020 11:56:05 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:56:05 PM - RegisterCourseClass - INFO: The text is :: 'Rest API Automation With Rest Assured'
+04/12/2020 11:56:05 PM - Util - INFO: Actual Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/12/2020 11:56:05 PM - Util - INFO: Expected Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/12/2020 11:56:05 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:56:05 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 5 
+04/12/2020 11:56:07 PM - RegisterCourseClass - DEBUG: In locator condition
+04/12/2020 11:56:07 PM - RegisterCourseClass - INFO: Element Found
+04/12/2020 11:56:07 PM - RegisterCourseClass - DEBUG: Before finding text
+04/12/2020 11:56:07 PM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/12/2020 11:56:07 PM - RegisterCourseClass - INFO: Getting text on element :: 
+04/12/2020 11:56:07 PM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/12/2020 11:56:07 PM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:56:07 PM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/12/2020 11:56:07 PM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/12/2020 11:56:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/12/2020 11:56:07 PM - TestStatus - INFO: Testing Course Verified ### TEST SUCCESSFUL
+04/13/2020 12:02:51 AM - LoginPage - INFO: Element Found
+04/13/2020 12:02:52 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/13/2020 12:02:55 AM - LoginPage - INFO: Element not found
+04/13/2020 12:02:55 AM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/13/2020 12:02:58 AM - LoginPage - INFO: Element Found
+04/13/2020 12:02:58 AM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/13/2020 12:02:59 AM - LoginPage - INFO: Element Found
+04/13/2020 12:02:59 AM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/13/2020 12:02:59 AM - LoginPage - INFO: Element Found
+04/13/2020 12:02:59 AM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/13/2020 12:02:59 AM - LoginPage - INFO: Element Found
+04/13/2020 12:03:07 AM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/13/2020 12:03:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:10 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:03:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:17 AM - RegisterCourseClass - INFO: Clicked on element with locator: All and locator_type: link
+04/13/2020 12:03:17 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:17 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:03:20 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:22 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/13/2020 12:03:22 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:22 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:22 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/13/2020 12:03:24 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:24 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:24 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:25 AM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/13/2020 12:03:25 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:25 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/13/2020 12:03:25 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/13/2020 12:03:25 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/13/2020 12:03:25 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:25 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/13/2020 12:03:27 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:27 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:27 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:27 AM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/13/2020 12:03:27 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:27 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/13/2020 12:03:27 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/13/2020 12:03:27 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/13/2020 12:03:27 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:27 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/13/2020 12:03:29 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:29 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:29 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:29 AM - RegisterCourseClass - DEBUG: After finding element, size is: 31
+04/13/2020 12:03:29 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:29 AM - RegisterCourseClass - INFO: The text is :: 'Complete Test Automation Bundle'
+04/13/2020 12:03:29 AM - Util - INFO: Actual Text From Application Web UI --> :: Complete Test Automation Bundle
+04/13/2020 12:03:29 AM - Util - INFO: Expected Text From Application Web UI --> :: Complete Test Automation Bundle
+04/13/2020 12:03:29 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:29 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 3 
+04/13/2020 12:03:31 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:31 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:31 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:31 AM - RegisterCourseClass - DEBUG: After finding element, size is: 42
+04/13/2020 12:03:31 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:31 AM - RegisterCourseClass - INFO: The text is :: 'TestNG Complete Bootcamp - Novice To Ninja'
+04/13/2020 12:03:31 AM - Util - INFO: Actual Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/13/2020 12:03:31 AM - Util - INFO: Expected Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/13/2020 12:03:31 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:31 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 4 
+04/13/2020 12:03:33 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:33 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:33 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:33 AM - RegisterCourseClass - DEBUG: After finding element, size is: 37
+04/13/2020 12:03:33 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:33 AM - RegisterCourseClass - INFO: The text is :: 'Rest API Automation With Rest Assured'
+04/13/2020 12:03:33 AM - Util - INFO: Actual Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/13/2020 12:03:33 AM - Util - INFO: Expected Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/13/2020 12:03:33 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:33 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 5 
+04/13/2020 12:03:35 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:03:35 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:35 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:03:35 AM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/13/2020 12:03:35 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:03:35 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/13/2020 12:03:35 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/13/2020 12:03:35 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/13/2020 12:03:35 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:03:35 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/13/2020 12:03:35 AM - TestStatus - INFO: Testing Course Verified ### TEST SUCCESSFUL
+04/13/2020 12:03:37 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:37 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:03:37 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:40 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software Development (8) and locator_type: link
+04/13/2020 12:03:41 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:41 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:03:41 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:43 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software IT (4) and locator_type: link
+04/13/2020 12:03:43 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:43 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:03:44 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Clicked on element with locator: React Hooks (1) and locator_type: link
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:03:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:48 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:03:48 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:48 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:03:49 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:03:59 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:03:59 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:04:02 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:04:02 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:02 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:04:02 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:04:02 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:04:03 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:04 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:04:04 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:04:24 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:04:24 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:24 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:04:24 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:04:24 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:04:24 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:04:24 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:04:24 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:04:24 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:04:24 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Failed 
+04/13/2020 12:04:24 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:04:24 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:04:28 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:30 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:04:30 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:30 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:04:31 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:38 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:04:38 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:04:41 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:04:41 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:42 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:04:43 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:04:43 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:05:03 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:05:04 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:04 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:05:04 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:05:04 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:05:04 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:05:04 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:05:04 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:05:04 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:05:04 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Failed 
+04/13/2020 12:05:04 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:05:04 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:05:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:09 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:05:09 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:09 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:05:12 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:17 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:05:17 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:05:23 AM - RegisterCourseClass - INFO: Element not found
+04/13/2020 12:05:23 AM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-courses and locator_type: id
+04/13/2020 12:05:26 AM - RegisterCourseClass - INFO: Element not found
+04/13/2020 12:05:26 AM - RegisterCourseClass - INFO: Cannot send data on the element with locator: search-courses and locator_type: id
+04/13/2020 12:05:29 AM - RegisterCourseClass - INFO: Element not found
+04/13/2020 12:05:29 AM - RegisterCourseClass - INFO: Cannot click on the element with locator:search-course-button and locator_type: id
+04/13/2020 12:05:32 AM - RegisterCourseClass - INFO: Element not found
+04/13/2020 12:05:32 AM - RegisterCourseClass - INFO: Cannot click on the element with locator:course-listing-title and locator_type: class
+04/13/2020 12:05:35 AM - RegisterCourseClass - INFO: Element not found
+04/13/2020 12:05:35 AM - RegisterCourseClass - INFO: Cannot click on the element with locator:enroll-button-top and locator_type: id
+04/13/2020 12:05:35 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:05:38 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:05:38 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:39 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:05:40 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:40 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:05:40 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:05:40 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:05:40 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:06:00 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:06:00 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:06:00 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:06:00 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:06:00 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:06:00 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:06:00 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:06:00 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:06:00 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:06:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Failed 
+04/13/2020 12:06:00 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:06:00 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:06:04 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:12:44 AM - LoginPage - INFO: Element Found
+04/13/2020 12:12:44 AM - LoginPage - INFO: Clicked on element with locator: //a[@class='navbar-link fedora-navbar-link'] and locator_type: xpath
+04/13/2020 12:12:47 AM - LoginPage - INFO: Element not found
+04/13/2020 12:12:47 AM - LoginPage - INFO: Cannot clear data on element with locator: user_email and locator_type: id
+04/13/2020 12:12:50 AM - LoginPage - INFO: Element Found
+04/13/2020 12:12:50 AM - LoginPage - INFO: Send data on element with locator: user_email and locator_type: id
+04/13/2020 12:12:50 AM - LoginPage - INFO: Element Found
+04/13/2020 12:12:50 AM - LoginPage - INFO: Cleared data on element with locator: user_password and locator_type: id
+04/13/2020 12:12:50 AM - LoginPage - INFO: Element Found
+04/13/2020 12:12:50 AM - LoginPage - INFO: Send data on element with locator: user_password and locator_type: id
+04/13/2020 12:12:50 AM - LoginPage - INFO: Element Found
+04/13/2020 12:12:57 AM - LoginPage - INFO: Clicked on element with locator: commit and locator_type: name
+04/13/2020 12:13:00 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:00 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:13:01 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:04 AM - RegisterCourseClass - INFO: Clicked on element with locator: All and locator_type: link
+04/13/2020 12:13:04 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:04 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:13:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:10 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software Testing (6) and locator_type: link
+04/13/2020 12:13:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:10 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Successful 
+04/13/2020 12:13:12 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:12 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:12 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:12 AM - RegisterCourseClass - DEBUG: After finding element, size is: 28
+04/13/2020 12:13:12 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:12 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver With Java'
+04/13/2020 12:13:12 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver With Java
+04/13/2020 12:13:12 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver With Java
+04/13/2020 12:13:12 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:12 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 1 
+04/13/2020 12:13:14 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:14 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:14 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:14 AM - RegisterCourseClass - DEBUG: After finding element, size is: 41
+04/13/2020 12:13:14 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:14 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Bundle (Java + Python)'
+04/13/2020 12:13:14 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/13/2020 12:13:14 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Bundle (Java + Python)
+04/13/2020 12:13:14 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:14 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 2 
+04/13/2020 12:13:16 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:16 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:16 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:16 AM - RegisterCourseClass - DEBUG: After finding element, size is: 31
+04/13/2020 12:13:16 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:16 AM - RegisterCourseClass - INFO: The text is :: 'Complete Test Automation Bundle'
+04/13/2020 12:13:16 AM - Util - INFO: Actual Text From Application Web UI --> :: Complete Test Automation Bundle
+04/13/2020 12:13:16 AM - Util - INFO: Expected Text From Application Web UI --> :: Complete Test Automation Bundle
+04/13/2020 12:13:16 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:16 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 3 
+04/13/2020 12:13:18 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:18 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:18 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:18 AM - RegisterCourseClass - DEBUG: After finding element, size is: 42
+04/13/2020 12:13:18 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:18 AM - RegisterCourseClass - INFO: The text is :: 'TestNG Complete Bootcamp - Novice To Ninja'
+04/13/2020 12:13:18 AM - Util - INFO: Actual Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/13/2020 12:13:18 AM - Util - INFO: Expected Text From Application Web UI --> :: TestNG Complete Bootcamp - Novice To Ninja
+04/13/2020 12:13:18 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:18 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 4 
+04/13/2020 12:13:20 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:20 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:20 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:20 AM - RegisterCourseClass - DEBUG: After finding element, size is: 37
+04/13/2020 12:13:20 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:20 AM - RegisterCourseClass - INFO: The text is :: 'Rest API Automation With Rest Assured'
+04/13/2020 12:13:20 AM - Util - INFO: Actual Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/13/2020 12:13:20 AM - Util - INFO: Expected Text From Application Web UI --> :: Rest API Automation With Rest Assured
+04/13/2020 12:13:20 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:20 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 5 
+04/13/2020 12:13:22 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:13:22 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:22 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:13:22 AM - RegisterCourseClass - DEBUG: After finding element, size is: 27
+04/13/2020 12:13:22 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:13:22 AM - RegisterCourseClass - INFO: The text is :: 'Selenium WebDriver Advanced'
+04/13/2020 12:13:22 AM - Util - INFO: Actual Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/13/2020 12:13:22 AM - Util - INFO: Expected Text From Application Web UI --> :: Selenium WebDriver Advanced
+04/13/2020 12:13:22 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:13:22 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Verified course - 6 
+04/13/2020 12:13:22 AM - TestStatus - INFO: Testing Course Verified ### TEST SUCCESSFUL
+04/13/2020 12:13:24 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:24 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:13:24 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:26 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software Development (8) and locator_type: link
+04/13/2020 12:13:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:26 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:13:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:29 AM - RegisterCourseClass - INFO: Clicked on element with locator: Software IT (4) and locator_type: link
+04/13/2020 12:13:29 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:29 AM - RegisterCourseClass - INFO: Clicked on element with locator: /html/body/div[@role='main']//div[@class='row search']/div[1]/div[@class='btn-group']/button[@type='button']/span[@class='caret'] and locator_type: xpath
+04/13/2020 12:13:29 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:30 AM - RegisterCourseClass - INFO: Clicked on element with locator: React Hooks (1) and locator_type: link
+04/13/2020 12:13:30 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:31 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:13:31 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:31 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:13:31 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:33 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:13:33 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:33 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:13:34 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:42 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:13:42 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:45 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:13:46 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:13:46 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:14:06 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:14:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:06 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:14:06 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:14:06 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:14:06 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:14:06 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:14:06 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:14:06 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:14:06 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Executed Successful 
+04/13/2020 12:14:06 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:14:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:14:10 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:13 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:14:13 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:13 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:14:16 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:22 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:14:22 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:14:25 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:14:25 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:14:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:27 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:14:27 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:14:47 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:14:47 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:47 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:14:47 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:14:47 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:14:47 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:14:47 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:14:47 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:14:47 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:14:47 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Executed Successful 
+04/13/2020 12:14:47 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:14:47 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:49 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:14:49 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:50 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:14:50 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:50 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:14:50 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:51 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:14:51 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:14:52 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:14:54 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:01 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:15:01 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:15:04 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:15:04 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:15:05 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:06 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:15:06 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:06 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:15:06 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:15:26 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:15:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:26 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:15:26 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:15:26 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:15:26 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:15:26 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:15:26 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:15:26 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:15:26 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Executed Successful 
+04/13/2020 12:15:26 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:15:26 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-courses and locator_type: id
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Send data on element with locator: search-courses and locator_type: id
+04/13/2020 12:15:30 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:33 AM - RegisterCourseClass - INFO: Clicked on element with locator: search-course-button and locator_type: id
+04/13/2020 12:15:33 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:33 AM - RegisterCourseClass - INFO: Clicked on element with locator: course-listing-title and locator_type: class
+04/13/2020 12:15:35 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:43 AM - RegisterCourseClass - INFO: Clicked on element with locator: enroll-button-top and locator_type: id
+04/13/2020 12:15:43 AM - Util - INFO: Wait :: '3' seconds for After clicking login icon
+04/13/2020 12:15:46 AM - RegisterCourseClass - INFO: Switched to iframe with 2
+04/13/2020 12:15:46 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Send data on element with locator: cardnumber and locator_type: name
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Switched to iframe with 3
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Send data on element with locator: exp-date and locator_type: name
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Switched to iframe with 4
+04/13/2020 12:15:47 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Send data on element with locator: cvc and locator_type: name
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Switched to iframe with 5
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Send data on element with locator: postal and locator_type: name
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Clicked on element with locator: agreed_to_terms_checkbox and locator_type: id
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:15:48 AM - RegisterCourseClass - INFO: Clicked on element with locator: //button[@id ='confirm-purchase'] and locator_type: xpath
+04/13/2020 12:15:48 AM - Util - INFO: Wait :: '20' seconds for 
+04/13/2020 12:16:08 AM - RegisterCourseClass - DEBUG: In locator condition
+04/13/2020 12:16:08 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:16:08 AM - RegisterCourseClass - DEBUG: Before finding text
+04/13/2020 12:16:09 AM - RegisterCourseClass - DEBUG: After finding element, size is: 22
+04/13/2020 12:16:09 AM - RegisterCourseClass - INFO: Getting text on element :: 
+04/13/2020 12:16:09 AM - RegisterCourseClass - INFO: The text is :: 'The card was declined.'
+04/13/2020 12:16:09 AM - Util - INFO: Actual Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:16:09 AM - Util - INFO: Expected Text From Application Web UI --> :: The card was declined.
+04/13/2020 12:16:09 AM - Util - INFO: ### VERIFICATION MATCHED !!!
+04/13/2020 12:16:09 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Test Executed Successful 
+04/13/2020 12:16:09 AM - TestStatus - INFO: Enroll Course ### TEST SUCCESSFUL
+04/13/2020 12:16:09 AM - RegisterCourseClass - INFO: Element Found
+04/13/2020 12:16:12 AM - RegisterCourseClass - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] and locator_type: xpath
